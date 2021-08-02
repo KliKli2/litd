@@ -12,7 +12,7 @@ We've deployed the app on streamlit which is trained on learning to see in dark 
      Currently this project is under development will take quite more time to get it to bring us good results 
 
 # ```code``` 
-The code for replicating this experiment can be found in [`notebook`](https://github.com/someshfengde/learning_to_see_in_dark/tree/main/notebook) folder 
+The code for replicating this experiment can be found in [`notebooks`](https://github.com/KliKli2/litd/notebooks) folder 
 
 # ```Dataset used``` 
 [Sony camera raw dataset](https://storage.googleapis.com/isl-datasets/SID/Sony.zip)

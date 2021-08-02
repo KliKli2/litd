@@ -1,6 +1,12 @@
 # ```Introduction```
 Converting night time images to day time images.
 
+# ```Run```
+To run this app on a local streamlit app:
+
+	 pip install -r requirements.txt
+     streamlit run init.py
+
 We've deployed the app on streamlit which is trained on learning to see in dark paper with resnet 34 as architecture.
 
      Currently this project is under development will take quite more time to get it to bring us good results 
